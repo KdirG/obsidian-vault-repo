@@ -1,7 +1,7 @@
 # Haftalık Spor Planı
 
 ## Pazartesi
-- [ ] Alternate Incline Dumbbell Curl [Egzersiz: Alternate Incline Dumbbell Curl] [Set: ]
+- [x] Alternate Incline Dumbbell Curl [Egzersiz: Alternate Incline Dumbbell Curl] [Set: ]
 
 ## Salı
 *Dinlenme Günü*
