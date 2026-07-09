@@ -1,7 +1,7 @@
 # Haftalık Spor Planı
 
 ## Pazartesi
-*Dinlenme Günü*
+- [ ] Bench Press - Powerlifting [Egzersiz: Bench Press - Powerlifting] [Set: ]
 
 ## Salı
 *Dinlenme Günü*
