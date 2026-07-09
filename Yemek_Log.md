@@ -5,5 +5,6 @@
 
 ## 2026-07-09
 - [x] 06:31 - 300.0g Tavuk (495.0 kcal | P: 93.0g | Y: 10.8g | K: 0.0g)
+- [x] 06:43 - 300.0g tavuk (495.0 kcal | P: 93.0g | Y: 10.8g | K: 0.0g)
 ---
-**Günlük Toplam:** 495.0 kcal | Protein: 93.0g | Yağ: 10.8g | Karbonhidrat: 0.0g
+**Günlük Toplam:** 990.0 kcal | Protein: 186.0g | Yağ: 21.6g | Karbonhidrat: 0.0g
