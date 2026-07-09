@@ -1,7 +1,7 @@
 # Haftalık Spor Planı
 
 ## Pazartesi
-- [ ] Bench Press with Chains [Egzersiz: Bench Press with Chains] [Set: ]
+- [ ] Full Range-Of-Motion Lat Pulldown [Egzersiz: Full Range-Of-Motion Lat Pulldown] [Set: ]
 
 ## Salı
 *Dinlenme Günü*
