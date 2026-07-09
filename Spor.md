@@ -1,7 +1,7 @@
 # Haftalık Spor Planı
 
 ## Pazartesi
-*Dinlenme Günü*
+- [ ] dumbell [Egzersiz: dumbell] [Set: 3/12]
 
 ## Salı
 *Dinlenme Günü*
