@@ -7,5 +7,6 @@
 - [x] 06:31 - 300g Tavuk (495.0 kcal | P: 93.0g | Y: 10.8g | K: 0.0g)
 - [x] 06:59 - 300.0g Tavuk (495.0 kcal | P: 93.0g | Y: 10.8g | K: 0.0g)
 - [x] 07:13 - 300.0g Tavuk (495.0 kcal | P: 93.0g | Y: 10.8g | K: 0.0g)
+- [x] 07:14 - 300.0g Tavuk Göğsü (495.0 kcal | P: 93.0g | Y: 10.8g | K: 0.0g)
 ---
-**Günlük Toplam:** 1485.0 kcal | Protein: 279.0g | Yağ: 32.4g | Karbonhidrat: 0.0g
+**Günlük Toplam:** 1980.0 kcal | Protein: 372.0g | Yağ: 43.2g | Karbonhidrat: 0.0g
