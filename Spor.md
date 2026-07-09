@@ -1,7 +1,7 @@
 # Haftalık Spor Planı
 
 ## Pazartesi
-- [ ] Arnold Dumbbell Press [Egzersiz: Arnold Dumbbell Press] [Set: ]
+*Dinlenme Günü*
 
 ## Salı
 *Dinlenme Günü*
