@@ -1,7 +1,6 @@
 # Haftalık Spor Planı
 
 ## Pazartesi
-- [ ] Bench Press - Powerlifting [Egzersiz: Bench Press - Powerlifting] [Set: ]
 - [ ] Bench Press with Chains [Egzersiz: Bench Press with Chains] [Set: ]
 
 ## Salı
