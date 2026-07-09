@@ -1,7 +1,7 @@
 # Haftalık Spor Planı
 
 ## Pazartesi
-- [ ] Full Range-Of-Motion Lat Pulldown [Egzersiz: Full Range-Of-Motion Lat Pulldown] [Set: ]
+*Dinlenme Günü*
 
 ## Salı
 *Dinlenme Günü*
