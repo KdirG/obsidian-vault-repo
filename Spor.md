@@ -2,6 +2,7 @@
 
 ## Pazartesi
 - [ ] Full Range-Of-Motion Lat Pulldown [Egzersiz: Full Range-Of-Motion Lat Pulldown] [Set: ]
+- [ ] Close-Grip Front Lat Pulldown [Egzersiz: Close-Grip Front Lat Pulldown] [Set: ]
 
 ## Salı
 *Dinlenme Günü*
