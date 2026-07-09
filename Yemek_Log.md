@@ -4,8 +4,7 @@
 **Günlük Toplam:** 495.0 kcal | Protein: 93.0g | Yağ: 10.8g | Karbonhidrat: 0.0g
 
 ## 2026-07-09
-
-- [x] 11:02 - 250.0g Tavuk (ıspanaklı) (412.5 kcal | P: 77.5g | Y: 9.0g | K: 0.0g)
-- [x] 11:02 - 200.0g Pirinç Pilavı (260.0 kcal | P: 5.4g | Y: 0.6g | K: 56.0g)
+- [x] 11:02 - 250g Tavuk (ıspanaklı) (412.5 kcal | P: 77.5g | Y: 9.0g | K: 0.0g)
+- [x] 11:02 - 350g Pirinç Pilavı (455.0 kcal | P: 9.5g | Y: 1.1g | K: 98.0g)
 ---
-**Günlük Toplam:** 672.5 kcal | Protein: 82.9g | Yağ: 9.6g | Karbonhidrat: 56.0g
+**Günlük Toplam:** 867.5 kcal | Protein: 87.0g | Yağ: 10.1g | Karbonhidrat: 98.0g
