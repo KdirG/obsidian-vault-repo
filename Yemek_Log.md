@@ -8,3 +8,10 @@
 - [x] 11:02 - 350g Pirinç Pilavı (455.0 kcal | P: 9.5g | Y: 1.1g | K: 98.0g)
 ---
 **Günlük Toplam:** 867.5 kcal | Protein: 87.0g | Yağ: 10.1g | Karbonhidrat: 98.0g
+
+## 2026-07-13
+- [x] 13:42 - 250.0g Yumurta (350.0 kcal | P: 30.0g | Y: 25.0g | K: 2.5g)
+- [x] 13:42 - 100.0g Kırmızı Biber (30.0 kcal | P: 1.0g | Y: 0.3g | K: 7.0g)
+- [x] 13:42 - 15.0g Sıvı Yağ (130.0 kcal | P: 0.0g | Y: 15.0g | K: 0.0g)
+---
+**Günlük Toplam:** 510.0 kcal | Protein: 31.0g | Yağ: 40.3g | Karbonhidrat: 9.5g
