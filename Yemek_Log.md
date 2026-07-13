@@ -15,5 +15,7 @@
 - [x] 13:42 - 15g Sıvı Yağ (130.0 kcal | P: 0.0g | Y: 15.0g | K: 0.0g)
 - [x] 14:29 - 180g çıtır tavuk burger (324.0 kcal | P: 15.1g | Y: 18.0g | K: 25.2g)
 - [x] 14:35 - 500.0g Smoothie (225.0 kcal | P: 1.3g | Y: 0.0g | K: 55.0g)
+- [x] 17:10 - 180.0g Kaşarlı Gözleme (400.0 kcal | P: 18.0g | Y: 20.0g | K: 45.0g)
+- [x] 17:10 - 200.0g Ayran (75.0 kcal | P: 6.0g | Y: 4.0g | K: 8.0g)
 ---
-**Günlük Toplam:** 1059.0 kcal | Protein: 47.4g | Yağ: 58.3g | Karbonhidrat: 89.7g
+**Günlük Toplam:** 1534.0 kcal | Protein: 71.4g | Yağ: 82.3g | Karbonhidrat: 142.7g
