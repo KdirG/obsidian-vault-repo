@@ -14,5 +14,6 @@
 - [x] 13:42 - 100g Kırmızı Biber (30.0 kcal | P: 1.0g | Y: 0.3g | K: 7.0g)
 - [x] 13:42 - 15g Sıvı Yağ (130.0 kcal | P: 0.0g | Y: 15.0g | K: 0.0g)
 - [x] 14:29 - 180g çıtır tavuk burger (324.0 kcal | P: 15.1g | Y: 18.0g | K: 25.2g)
+- [x] 14:35 - 500.0g Smoothie (225.0 kcal | P: 1.3g | Y: 0.0g | K: 55.0g)
 ---
-**Günlük Toplam:** 834.0 kcal | Protein: 46.1g | Yağ: 58.3g | Karbonhidrat: 34.7g
+**Günlük Toplam:** 1059.0 kcal | Protein: 47.4g | Yağ: 58.3g | Karbonhidrat: 89.7g
